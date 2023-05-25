@@ -1,4 +1,6 @@
 # facedetect
+This is the face detector using Yolov4 tiny model.
+
 How to download, build, and execute on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
