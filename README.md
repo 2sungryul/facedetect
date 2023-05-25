@@ -3,6 +3,8 @@ This is the face detector using Yolov4 tiny model.
 
 The Yolo weight and cfg files were taken from https://github.com/LorenRd/JetsonYolov4
 
+# What to do on Jetson nano
+
 How to download, build, and execute on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
@@ -13,7 +15,7 @@ $ make
 
 $ ./facedetect
 
-What to do on Windows
+# What to do on Windows
 
 execute the command prompt and download gst1.bat in a working directory
 
