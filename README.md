@@ -1,5 +1,5 @@
 # facedetect
-how to download, build, and execute on Jetson nano
+How to download, build, and execute on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
 
@@ -9,8 +9,8 @@ $ make
 
 $ ./facedetect
 
-what to do on Windows
+What to do on Windows
 
 execute the command prompt and download gst1.bat in a working directory
 
-> gst1.bat
+ > gst1.bat
