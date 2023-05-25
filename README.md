@@ -13,4 +13,4 @@ What to do on Windows
 
 execute the command prompt and download gst1.bat in a working directory
 
-">" gst1.bat
+\> gst1.bat
