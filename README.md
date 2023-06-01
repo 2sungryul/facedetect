@@ -5,6 +5,12 @@ The Yolo weight and cfg files were taken from https://github.com/LorenRd/JetsonY
 
 # What to do on Jetson nano
 
+Add in .bashrc as follows.
+
+export DISPLAY=:0.0
+
+xhost +
+
 How to download, build, and run on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
