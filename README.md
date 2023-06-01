@@ -9,7 +9,7 @@ How to download, build, and run on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
 
-modifiy a destination ip address and port of gstreamer to those of your pc.
+modify a destination ip address and port of gstreamer to those of your pc.
 
 $ cd facedetect
 
