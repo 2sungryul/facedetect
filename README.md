@@ -11,7 +11,7 @@ export DISPLAY=:0.0
 
 xhost +
 
-How to download, build, and run on Jetson nano
+Download, build, and run on Jetson nano
 
 $ git clone https://github.com/2sungryul/facedetect.git
 
